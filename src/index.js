@@ -19,12 +19,12 @@ new KlasaClient({
   production: true,
   presence: {
     activity: {
-      name: "Darling in the FranXX",
+      name: "Himiko Here",
       type: "WATCHING",
       shardID: CONFIG.shardCount
     }
   },
-  readyMessage: "I missed you, Darling",
+  readyMessage: "I missed you, Himiko",
   shardCount: CONFIG.shardCount,
   totalShardCount: CONFIG.shardCount,
   typing: true
