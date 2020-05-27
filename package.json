@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmoisxhi/Zero-Two.git"
+    "url": "git+https://github.com/Giovinca/Himiko-bot.git"
   },
   "keywords": [
     "Discord",
@@ -24,9 +24,9 @@
   "author": "Mixi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmoisxhi/Zero-Two/issues"
+    "url": "https://github.com/Giovinca/Himiko-bot/issues"
   },
-  "homepage": "https://github.com/jmoisxhi/Zero-Two#readme",
+  "homepage": "https://github.com/Giovinca/Himiko-bot#readme",
   "dependencies": {
     "bufferutil": "^4.0.1",
     "canvas": "^2.6.0",
