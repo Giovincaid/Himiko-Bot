@@ -9,14 +9,14 @@ module.exports = class extends Command {
       cooldown: 60,
       guarded: true,
       permissionLevel: 0,
-      description: 'Douse Zero Two!',
+      description: 'Douse Himiko!',
       extendedHelp: 'Simply do >>douse'
     });
   }
 
   async run(message) {
     const description = 'And I oop-';
-    const image = 'https://i.pinimg.com/originals/6a/c8/26/6ac826e3d0cbd64eb4f42c12a73fcdb8.gif';
+    const image = 'https://66.media.tumblr.com/85279d0340fa77da326c12e5a329088a/tumblr_p7j729FrkK1qehrvso1_540.gifv';
 
     return message.send(new MessageEmbed()
       .setColor(color)
